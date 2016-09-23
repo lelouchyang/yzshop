@@ -1,0 +1,3 @@
+<pre>
+<?=$appFeedback->content?>
+</pre>

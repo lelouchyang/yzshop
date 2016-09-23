@@ -1,0 +1,114 @@
+/*
+body {
+    font-size:14px;
+}
+
+.main-header .logo { width: 210px; }
+.main-header > .navbar { margin-left: 210px; }
+.content-wrapper, .right-side, .main-footer { margin-left:210px; }
+.main-sidebar, .left-side { width: 210px; }
+*/
+
+.sidebar-menu > li {
+    border-bottom: 1px dotted #e1e1e1;
+}
+
+.sidebar-menu > li > a {
+    padding: 8px 5px 8px 15px;
+}
+
+.sidebar-menu .treeview-menu > li {
+    border-bottom: 1px dotted #e1e1e1;
+}
+.sidebar-menu .treeview-menu > li:last-child {
+    border-bottom: none;
+}
+
+.skin-green-light .sidebar-menu > li > a:hover {
+    background-color:#F4FFFA;
+}
+
+.skin-green-light .treeview-menu > li > a:hover {
+    background-color:#F4FFFF;
+}
+
+
+.box {
+    border-radius: 2px;
+    border-top: 2px solid #d2d6de;
+}
+
+.content {
+    min-height: 250px;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav-stacked-thin > li > a {
+    padding:5px 8px;
+}
+
+button, input, optgroup, select, textarea {
+    border-radius: 2px;
+    border: 1px solid #ccc;
+}
+
+.modal-header {
+    padding: 8px 12px;
+}
+
+.modal-content {
+    border-radius: 3px;
+}
+
+.modal-footer {
+    padding: 6px 8px;
+}
+
+.text-middle {
+    vertical-align:middle!important;
+    line-height:100%;
+}
+
+.text-mc{
+    text-align:center;
+    vertical-align:middle!important;
+    line-height:100%;
+}
+
+.w4{ width:4em!important; }
+.w5{ width:5em!important; }
+.w6{ width:6em!important; }
+.w7{ width:7em!important; }
+.w8{ width:8em!important; }
+.w9{ width:9em!important; }
+.w10{ width:10em!important; }
+.w11{ width:11em!important; }
+.w12{ width:12em!important; }
+.w13{ width:13em!important; }
+.w14{ width:14em!important; }
+.w15{ width:15em!important; }
+.w16{ width:16em!important; }
+.w17{ width:17em!important; }
+.w18{ width:18em!important; }
+.w19{ width:19em!important; }
+.w20{ width:20em!important; }
+
+.s1{padding-right:1em;}
+.s2{padding-right:2em;}
+.s3{padding-right:3em;}
+.s4{padding-right:4em;}
+.s5{padding-right:5em;}
+.s6{padding-right:6em;}
+.s7{padding-right:7em;}
+.s8{padding-right:8em;}
+
+.m5{margin-top:5px;margin-bottom:5px;}
+.m10{margin-top:10px;margin-bottom:10px;}
+.m15{margin-top:15px;margin-bottom:15px;}
+.p5{padding:5px!important;}
+.p10{padding:10px!important;}
+.p15{padding:15px!important;}
